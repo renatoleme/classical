@@ -647,4 +647,4 @@ Module Classical.
   
 End Classical.
 
-Export Ecumenical.
+Export Classical.
